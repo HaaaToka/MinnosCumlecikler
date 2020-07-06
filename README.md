@@ -1,0 +1,2 @@
+# MinnosCumlecikler
+NLP Project
